@@ -8,5 +8,6 @@ public class kzfs {
         System.out.println("master");
         System.out.println("master third commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
